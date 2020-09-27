@@ -2,7 +2,7 @@
 
 
 
-# Random Quotes  App in ReactJS    :notebook_with_decorative_cover
+# Random Quotes  App in ReactJS    :notebook_with_decorative_cover:
 
 A  Quote App built using React JS Hooks and Material UI with Next , Previous and Random Quotes options.
 
