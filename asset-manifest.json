@@ -1,0 +1,15 @@
+{
+  "main.css": "/quotesApp/static/css/main.f7f8d6fb.chunk.css",
+  "main.js": "/quotesApp/static/js/main.7bb45f54.chunk.js",
+  "main.js.map": "/quotesApp/static/js/main.7bb45f54.chunk.js.map",
+  "runtime~main.js": "/quotesApp/static/js/runtime~main.dcde7c86.js",
+  "runtime~main.js.map": "/quotesApp/static/js/runtime~main.dcde7c86.js.map",
+  "static/css/2.a408fa18.chunk.css": "/quotesApp/static/css/2.a408fa18.chunk.css",
+  "static/js/2.c1f6e5f0.chunk.js": "/quotesApp/static/js/2.c1f6e5f0.chunk.js",
+  "static/js/2.c1f6e5f0.chunk.js.map": "/quotesApp/static/js/2.c1f6e5f0.chunk.js.map",
+  "index.html": "/quotesApp/index.html",
+  "precache-manifest.abf2bb785063a40a623fcbfc08166510.js": "/quotesApp/precache-manifest.abf2bb785063a40a623fcbfc08166510.js",
+  "service-worker.js": "/quotesApp/service-worker.js",
+  "static/css/2.a408fa18.chunk.css.map": "/quotesApp/static/css/2.a408fa18.chunk.css.map",
+  "static/css/main.f7f8d6fb.chunk.css.map": "/quotesApp/static/css/main.f7f8d6fb.chunk.css.map"
+}
