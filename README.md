@@ -2,7 +2,7 @@
 
 
 
-# Random Quotes  App in ReactJS    <img src="https://emojis.slackmojis.com/emojis/images/1471045860/877/movie.gif?1471045860"  width="35" height="35" />
+# Random Quotes  App in ReactJS    :page_with_curl:
 
 A  Quote App built using React JS Hooks and Material UI with Next , Previous and Random Quotes options.
 
