@@ -9,6 +9,7 @@ A  Quote App built using React JS Hooks and Material UI with Next , Previous and
 
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/quotesApp?style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/quotesApp?style=plastic)
+![npm](https://img.shields.io/npm/v/npm?color=green)
 ![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Famoldalwai.github.io%2FquotesApp%2F)
 
 #### Table of Contents  
