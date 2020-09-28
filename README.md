@@ -4,7 +4,7 @@
 
 # Random Quotes  App in ReactJS    :notebook_with_decorative_cover:
 
-A  Quote App built using React JS Hooks and Material UI with Next , Previous and Random Quotes options.
+A  Quote App built using React JS Hooks and Material UI with Next , Previous and Random Quotes options for over 1500+ quotes.Along with Direct post Quote on Twitter Feature
 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/quotesApp?style=plastic)
